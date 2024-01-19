@@ -1,0 +1,40 @@
+
+body{
+	margin: 0;
+	padding: 0;
+ font-family: 'Montserrat';font-size: 22px;
+ background-color: #D0D3D4 ;
+}
+.izquierda{
+	background :#FCD21D;
+	height: 150vh;
+	width: 50%;
+	text-align: center;
+
+}
+
+.derecha{
+	background :url(fondo.jpg);
+	background-size: cover;
+	background-position: center;
+	width: 50%;
+	height: 150vh; 
+}
+#panta{
+	display: flex ;
+}
+.create{
+	color: #ffff;
+}
+h1{
+	font-size: 30px;
+	width: 60%;
+	margin-bottom: 40px;
+height: 80px;
+}
+p{
+	font-size: 19px;
+	line-height: 30px;
+	width: 50%;
+	margin: auto;
+}
